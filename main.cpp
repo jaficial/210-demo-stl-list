@@ -3,6 +3,7 @@
 #include <iostream>
 #include <fstream>
 #include <list>
+#include <ctime>
 using namespace std;
 
 const int SZ = 200;  // holds size of array of names from file
